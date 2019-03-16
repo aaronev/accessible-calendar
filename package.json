@@ -1,4 +1,8 @@
 {
   "name": "",
-  "version": ""
+  "version": "",
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.12.2"
+  }
 }

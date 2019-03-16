@@ -4,7 +4,7 @@ document.querySelector('button').addEventListener('click', activate);
 
 
 function activate() {
-  new AccessibleCalendar
+  new AccessibleCalendar();
 }
 
 class AccessibleCalendar {
