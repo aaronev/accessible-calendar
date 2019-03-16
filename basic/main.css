@@ -1,4 +1,7 @@
 body {
-  color: gray;
   background-color: gray;
+}
+
+button div {
+  font-size: 100px; 
 }
